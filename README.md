@@ -7,7 +7,7 @@
 https://ripunjaycoder.github.io/Ripunjay.github.io/
 
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ripunjay-deka-b745b3201)
 
 
 
