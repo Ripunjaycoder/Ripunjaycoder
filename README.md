@@ -8,7 +8,7 @@
 
 
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="ripunjay-deka-b745b3201" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/ripunjay-deka-b745b3201?trk=profile-badge">Ripunjay Deka</a></div>
+<a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/ripunjay-deka-b745b3201?trk=profile-badge">Ripunjay Deka</a>
               
 
 
