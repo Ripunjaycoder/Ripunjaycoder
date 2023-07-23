@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ripunjay Deka
-- 👀 Currently I have joined at INTEL as INTEL STUDENT AMBASSADOR in my campus. I’m interested in Full Stack Web Development,apart from it I love coding and my hobby is playing guitar,badminton,travelling and drawing.
+- 👀 Currently I have joined at Microsoft as a Microsoft Learn Student Ambassador'23 & also at INTEL as a INTEL STUDENT AMBASSADOR'22 in my campus. I’m interested in Full Stack Web Development,apart from it I love coding and my hobby is playing guitar,badminton,travelling and drawing.
 - 🌱 I’m currently learning Full Stack Web Development.
 - 💞️ I’m looking to collaborate on some program through which I can improve my skills.
 - 📫 How to reach me ...
