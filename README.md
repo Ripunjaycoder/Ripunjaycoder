@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # 💫 About Me:
-Front End Web Developer<br>Currently pursuing my graduation in Electronics And Communication Engineering at Tezpur University, apart from it I love coding and interested in space technology<br><br>Joined at Intel as a Student Ambassador for IoT.<br><br>Campus lead GeeksforGeeks.....<br> <br>I'm really interested to do or join any program through which I can improve my skills and also gain a better experience 😉.<br><br>Free time with playing guitar 🎸, Drawing <br>Travel 🧳
+Front End Web Developer<br>Currently pursuing my graduation in Electronics And Communication Engineering at Tezpur University, apart from it I love coding and interested in space technology<br><br>Joined at Microsoft as a Microsoft Learn Student Ambassador'23 at Intel as a Student Ambassador'22 for IoT.<br><br>Campus lead GeeksforGeeks.....<br> <br>I'm really interested to do or join any program through which I can improve my skills and also gain a better experience 😉.<br><br>Free time with playing guitar 🎸, Drawing <br>Travel 🧳
 
 
 ## 🌐 Socials:
